@@ -1,0 +1,13 @@
+.container-fluid .navbar-brand h1{
+    margin-bottom: -15px;
+}
+.Myshadow{
+   box-shadow: 0 .25rem .125rem rgb(142, 142, 250) !important;
+}
+.body{
+    width: 100%;
+    height: 100vh;
+}
+.nav-link:hover{
+    border-bottom: 2px solid #0d6efd !important ;
+}
